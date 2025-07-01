@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Apple",
+        "color": "Red",
+        "taste": "Sweet",
+        "season": "Fall",
+        "origin": "Central Asia"
+    },
+    {
+        "name": "Banana",
+        "color": "Yellow",
+        "taste": "Sweet",
+        "season": "Year-round",
+        "origin": "Southeast Asia"
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "taste": "Citrus",
+        "season": "Winter",
+        "origin": "China"
+    },
+    {
+        "name": "Strawberry",
+        "color": "Red",
+        "taste": "Sweet",
+        "season": "Spring",
+        "origin": "France"
+    },
+    {
+        "name": "Blueberry",
+        "color": "Blue",
+        "taste": "Sweet",
+        "season": "Summer",
+        "origin": "North America"
+    },
+    {
+        "name": "Mango",
+        "color": "Orange",
+        "taste": "Sweet",
+        "season": "Summer",
+        "origin": "India"
+    },
+    {
+        "name": "Pineapple",
+        "color": "Brown-Yellow",
+        "taste": "Tangy",
+        "season": "Spring",
+        "origin": "South America"
+    },
+    {
+        "name": "Grapes",
+        "color": "Purple",
+        "taste": "Sweet/Tart",
+        "season": "Fall",
+        "origin": "Near East"
+    },
+    {
+        "name": "Watermelon",
+        "color": "Green-Red",
+        "taste": "Sweet",
+        "season": "Summer",
+        "origin": "Africa"
+    },
+    {
+        "name": "Papaya",
+        "color": "Orange",
+        "taste": "Mild Sweet",
+        "season": "Year-round",
+        "origin": "Central America"
+    }
+]
